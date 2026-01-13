@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Maicon Paulo 👋</h1>
+<h1 align="center">Hi, eu sou o Maicon  👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-%237e3ff2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status: Em Aprendizado" />

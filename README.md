@@ -1,6 +1,6 @@
 # GitHub Profile — Maicon Paulo
 
-<h1 align="center">Olá, eu sou o Maicon Paulo 👋</h1>
+<h1 align="center">Opa, eu sou o Maicon👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack em evolução 🚀</strong>
@@ -15,15 +15,14 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor de software, atualmente no **8º período**.
+Sou **bacharel em Ciência da Computação** e desenvolvedor de software, com foco em **desenvolvimento Full Stack**.
 
-Meu foco atual é evoluir como **desenvolvedor Full Stack**, construindo aplicações reais e aprendendo cada vez mais sobre desenvolvimento de APIs, bancos de dados, autenticação, arquitetura de sistemas e deploy.
+Atualmente, trabalho na construção de aplicações reais, desenvolvendo soluções completas que envolvem **frontend, backend, APIs REST, bancos de dados, autenticação e deploy**.
 
-Gosto de transformar ideias em sistemas funcionais, desde o **frontend até o backend e banco de dados**.
+Tenho experiência e venho aprimorando meus conhecimentos principalmente em **Java, Spring Boot, JavaScript, Node.js, Express e PostgreSQL**.
 
-Atualmente venho trabalhando principalmente com **Java, Spring Boot, JavaScript, Node.js, Express e PostgreSQL**.
+Gosto de transformar ideias em sistemas funcionais, buscando sempre melhorar minha arquitetura de código, segurança, organização e boas práticas de desenvolvimento.
 
----
 
 ## 🚀 Tecnologias e conhecimentos
 
